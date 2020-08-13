@@ -1,0 +1,9 @@
+/* hulk section*/
+.hulk{
+  width:100%;
+  height:1300px;
+  background: url(./hulk.jpg) no-repeat;
+  /* background-attachment: fixed; */
+  color:#fff;
+  padding:50px;
+}
